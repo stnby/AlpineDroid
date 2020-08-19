@@ -3,7 +3,7 @@ set -e
 
 # PARAMETERS ---
 DEST='/data/alpinedroid'
-MIRR='http://dl-cdn.alpinelinux.org/alpine/'
+MIRR='http://dl-cdn.alpinelinux.org/alpine'
 DNS1='1.1.1.1'
 DNS2='1.0.0.1'
 # --------------
